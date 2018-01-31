@@ -1,6 +1,6 @@
 # Shakespearean Insult Bot 
 
-Version one of the shakespearean insult generating bot. Crafts a clevel shakespearean insult and sends it to my abysmally lethargic friends. (Psst! Hey Broel/R'hhlor 👋) 
+Version one of the shakespearean insult generating bot. Crafts a clever shakespearean insult and sends it to my abysmally lethargic friends. (Psst! Hey Broel/R'hllor 👋) 
 
 ## To-do ✅
 
