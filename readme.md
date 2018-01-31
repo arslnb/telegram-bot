@@ -1,13 +1,13 @@
-# Lord Genghis
+# Shakespearean Insult Bot 
 
-Version one of the shakespearean insult generating bot. Inspired by two abysmally lethargic friends. 👋
+Version one of the shakespearean insult generating bot. Crafts a clevel shakespearean insult and sends it to my abysmally lethargic friends. (Psst! Hey Broel/R'hhlor 👋) 
 
-## To-do
+## To-do ✅
 
 - Get inbound webhook set up 
-- Build insult generator
+- ~~Build insult generator~~
 - Set up scheduler for 5PM all days except Friday
-- Set up message handler 
+- Build message handler 
 
 ## Stretch goals
 
